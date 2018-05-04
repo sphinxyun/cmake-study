@@ -1,0 +1,3 @@
+/home/pi/myprogram/cmake/myex/ex1/CMakeFiles/edit_cache.dir
+/home/pi/myprogram/cmake/myex/ex1/CMakeFiles/rebuild_cache.dir
+/home/pi/myprogram/cmake/myex/ex1/CMakeFiles/ex1.dir
